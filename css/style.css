@@ -1,0 +1,36 @@
+#header{
+	text-align: center;
+}
+#header_text{
+	font-size: 10px;
+	padding: 15px 0;
+	float: centre;
+	letter-spacing: 3px;
+	color: maroon;
+}
+#header_2{
+    text-align: center;
+    padding: 20px 200px;
+    float: centre;
+}
+#menu_bar{
+	font-size: 15px;
+	color: maroon;
+	text-align: left;
+	text-indent: 20px;
+	padding: 0px 0px 0px 20px;
+}
+#brand_name{
+	font-size: 40px;
+	color: maroon;
+	text-align: center;
+	padding: 0px 0px 0px 0px;
+	margin: 0;
+}
+#text{
+	font-size: 50px;
+	padding: 250px 400px 0px 300px;
+	letter-spacing: -3px;
+	color: maroon;
+	font-weight: 100;
+}
